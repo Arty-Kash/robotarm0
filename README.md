@@ -1,4 +1,6 @@
 # robotarm0
 
-pip install pybullet meshcat numpy
+pip install meshcat
+
+
 python main.py
